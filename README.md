@@ -1,2 +1,3 @@
 # Aditya_ImplementasiAlgoritmaRealTimeProcessingpadaBotWhatsAppMultiDevice_Alpro
 tugas algoritma pemrograman/i made aditya dwi prayogi/TI B/20230302069
+download dan kemudian extract
